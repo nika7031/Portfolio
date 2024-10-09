@@ -5,8 +5,6 @@ import project3 from "../assets/projects/project-3.webp";
 export const HERO_CONTENT =
   "I am a 2nd year B-tech student with a strong passion for web development, proficient in HTML, CSS, JavaScript, and React. An avid reader, I constantly seek to expand my knowledge and skills in technology. I am also fluent in English, Hindi, Korean, with a solid grasp of programming languages such as Python, C, C++, and Java. My goal is to deepen my expertise in software engineering and contribute to innovative projects that leverage technology to solve real-world problems.";
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
-
 export const PROJECTS = [
   {
     title: "Weather-Dashboard",
